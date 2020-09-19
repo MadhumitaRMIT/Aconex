@@ -10,7 +10,7 @@ public enum Cost{
     private String name;
     private int credit;
 
-    Cost(String s, int credit) {
+   Cost(String s, int credit) {
         this.name = s;
         this.credit = credit;
     }
