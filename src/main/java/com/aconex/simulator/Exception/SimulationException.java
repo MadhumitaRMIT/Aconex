@@ -1,4 +1,4 @@
-package simulator.exception;
+package com.aconex.simulator.exception;
 
 public class SimulationException extends RuntimeException {
 

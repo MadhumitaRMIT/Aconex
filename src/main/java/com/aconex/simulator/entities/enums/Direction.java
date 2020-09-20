@@ -1,4 +1,4 @@
-package simulator.entities.enums;
+package com.aconex.simulator.entities.enums;
 public enum Direction {
     EAST,WEST,NORTH,SOUTH;
 

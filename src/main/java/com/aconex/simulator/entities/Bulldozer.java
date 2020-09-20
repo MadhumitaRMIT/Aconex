@@ -1,6 +1,6 @@
-package simulator.entities.enums;
-import simulator.commands.Command;
-import simulator.entities.enums.Cost;
+package com.aconex.simulator.entities.enums;
+import com.aconex.simulator.commands.Command;
+import com.aconex.simulator.entities.enums.Cost;
 
 import java.util.ArrayList;
 import java.util.Arrays;

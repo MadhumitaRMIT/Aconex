@@ -1,5 +1,5 @@
-package simulator.commands;
-import simulator.entities.Position;
+package com.aconex.simulator.commands;
+import com.aconex.simulator.entities.Position;
 import java.util.ArrayList;
 import java.util.List;
 public class Right implements Command {

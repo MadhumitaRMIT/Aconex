@@ -1,5 +1,5 @@
-package simulator.commands;
-import simulator.entities.Position;
+package com.aconex.simulator.commands;
+import com.aconex.simulator.*;
 
 import java.util.ArrayList;
 import java.util.List;

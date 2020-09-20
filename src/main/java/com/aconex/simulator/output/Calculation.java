@@ -1,10 +1,10 @@
-package simulator.output;
+package com.aconex.simulator.output;
 
-import simulator.commands.QuitCommand;
-import simulator.entities.Bulldozer;
-import simulator.entities.Square;
-import simulator.entities.enums.Cost;
-import simulator.entities.enums.Type;
+import com.aconex.simulator.commands.QuitCommand;
+import com.aconex.simulator.entities.Bulldozer;
+import com.aconex.simulator.entities.Square;
+import com.aconex.simulator.entities.enums.Cost;
+import com.aconex.simulator.entities.enums.Type;
 
 import java.util.Arrays;
 import java.util.Map;
@@ -16,7 +16,7 @@ public class Calculation implements Function<Bulldozer, Map<Cost, Integer>> {
 
     private final Square[][] siteMap;
 
-    public Cal(Square[][] siteMap) {
+    public Calculation(Square[][] siteMap) {
         this.siteMap = siteMap;
     }
 

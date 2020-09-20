@@ -1,4 +1,4 @@
-package simulator.input;
+package com.aconex.simulator.input;
 
 import java.io.IOException;
 import java.nio.file.Files;
