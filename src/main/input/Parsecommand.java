@@ -13,7 +13,7 @@ public class Parsecommand implements Function<String, Command> {
     public Command apply(String inputString){
 
         if (inputString.startsWith("A")){
-            Matcher matcher = AAdvance_patt.matcher(inputString);
+            Matcher matcher = Advance_patt.matcher(inputString);
         if (matcher.matches()) {
             return new advance(Integer.parseInt(matcher.group(2)));
             }

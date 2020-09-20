@@ -16,7 +16,7 @@ public class Calculation implements Function<Bulldozer, Map<Cost, Integer>> {
 
     private final Square[][] siteMap;
 
-    public Calculation(Square[][] siteMap) {
+    public Cal(Square[][] siteMap) {
         this.siteMap = siteMap;
     }
 
