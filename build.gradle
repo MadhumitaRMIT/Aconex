@@ -20,12 +20,12 @@ test {
 }
 
 run {
-    mainClassName = 'main.simulator.App'
+    mainClassName = 'com.aconex.simulator.App'
     standardInput = System.in
 }
 
 jar {
     manifest {
-        attributes ('Main-Class': 'main.simulator.App')
+        attributes ('Main-Class': 'com.aconex.simulator.App')
     }
 }

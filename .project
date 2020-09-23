@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Aconex</name>
-	<comment>Project Aconex created by Buildship.</comment>
+	<name>site-clearing-simulation-master</name>
+	<comment>Project site-clearing-simulation-master created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1600345943510</id>
+			<id>1600398516312</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
